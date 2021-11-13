@@ -1,3 +1,7 @@
+h1, h2, h3, p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .header{
     text-transform: capitalize;
 }
@@ -10,13 +14,11 @@
     border-bottom: 1px solid gray;
 }
 
-.box p{
-    display: inline-block;
+.article{
+    text-transform: capitalize;
+    font-weight: bold;
 }
 
-.box h2{
-    text-transform: capitalize;
-}
 
 .left{
     width: 90%;
@@ -26,4 +28,9 @@
 
 .right{
     font-style: italic;
+}
+
+.footer{
+    margin-top: 50px;
+    border-top: 1px solid gray;
 }
