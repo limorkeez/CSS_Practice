@@ -1,0 +1,82 @@
+body{
+    width: 800px;
+    border: 1px solid blue;
+}
+
+h1{
+    text-align: center;
+    font-size: 54pt;
+    color: #383838;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2{
+    font-family: sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 36pt;
+    color: #383838;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#line{
+    width: 100%;
+    background-color: blue;
+}
+
+#posLeft{
+    font-weight: bold;
+    margin: 0;
+    margin-left: 6%;
+    display: inline-block;
+    width: 27%;
+    text-align: left;
+    color: white;
+}
+
+#posCenter{
+    font-weight: bold;
+    margin: 0;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    color: white;
+}
+
+#posRight{
+    font-weight: bold;
+    margin: 0;
+    margin-right: 6%;
+    display: inline-block;
+    width: 27%;
+    text-align: right;
+    color: white;
+}
+
+/* img{
+    width: 250px;
+}
+
+#coupon{
+    width: 250px;
+    height: 150px;
+    border: 5px dashed black;
+}
+
+#coupon h3{
+    margin: 0;
+    text-align: center;
+    color: red;
+}
+
+.highlighted{
+    font-weight: bold;
+    color: red;
+}
+
+.textBlock{
+    padding-left: 10px;
+} */
