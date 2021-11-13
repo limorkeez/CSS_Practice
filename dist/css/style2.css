@@ -1,8 +1,3 @@
-body{
-    width: 800px;
-    border: 1px solid blue;
-}
-
 h1{
     text-align: center;
     font-size: 54pt;
@@ -56,27 +51,6 @@ h2{
     color: white;
 }
 
-img{
-    width: 250px;
-}
 
-#coupon{
-    width: 250px;
-    height: 150px;
-    border: 5px dashed black;
-}
 
-#coupon h3{
-    margin: 0;
-    text-align: center;
-    color: red;
-}
 
-.highlighted{
-    font-weight: bold;
-    color: red;
-}
-
-.textBlock{
-    padding-left: 10px;
-}
