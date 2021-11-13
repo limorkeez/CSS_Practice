@@ -1,16 +1,29 @@
-.articleName{
-    width: 100%;
+.header{
+    text-transform: capitalize;
 }
 
-.leftSide{
+.main{
+    width: 95%;
+}
+
+.box{
+    border-bottom: 1px solid gray;
+}
+
+.box p{
     display: inline-block;
-    width: 49%;
+}
+
+.box h2{
+    text-transform: capitalize;
+}
+
+.left{
+    width: 90%;
     font-weight: bold;
-    text-align: left;
+    text-transform: capitalize;
 }
 
-.rightSide{
-    display: inline-block;
-    width: 49%;
-    text-align: right;
+.right{
+    font-style: italic;
 }
