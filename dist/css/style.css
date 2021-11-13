@@ -14,6 +14,10 @@ h1, h2, h3, p {
     border-bottom: 1px solid gray;
 }
 
+.box p{
+    display: inline-block;
+}
+
 .article{
     text-transform: capitalize;
     font-weight: bold;
@@ -33,4 +37,8 @@ h1, h2, h3, p {
 .footer{
     margin-top: 50px;
     border-top: 1px solid gray;
+}
+
+a{
+    text-decoration: none;
 }
