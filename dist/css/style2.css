@@ -16,6 +16,10 @@ h2{
     margin-bottom: 20px;
 }
 
+h3{
+    text-align: center;
+}
+
 #line{
     width: 100%;
     background-color: blue;
@@ -51,6 +55,36 @@ h2{
     color: white;
 }
 
+
+.box{
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    margin: 20px;
+}
+
+.box img{
+    width: 100%;
+}
+
+.coupon{
+    border: 5px dashed black;
+    height: 200px;
+}
+
+.coupon p{
+    margin-top: 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16pt;
+    color: red;
+
+}
+
+.redHeadline{
+    font-weight: bold;
+    color: red;
+}
 
 
 
